@@ -1,7 +1,7 @@
 ---
-layout: posts
 title:  "KaTeXのテスト"
-date:   2024-04-22
+date:   2024/4/22
+description: KaTeXのブロック書式を試したかった。
 tag: test
 ---
 ブロックのKaTeXがちゃんと機能しているかのテスト。インラインの方は諦めた。<br>
