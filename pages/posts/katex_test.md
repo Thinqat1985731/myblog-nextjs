@@ -1,5 +1,5 @@
 ---
-layout: posta
+layout: posts
 title:  "KaTeXのテスト"
 date:   2024-04-22
 ---
