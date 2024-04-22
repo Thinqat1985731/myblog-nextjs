@@ -1,6 +1,6 @@
 ---
-title: KaTeXのテスト
-date:  2024/4/22
+title: KaTeX's Test
+date: 2024/4/22
 description: KaTeXのブロック書式を試したかった。
 tag: test
 ---
