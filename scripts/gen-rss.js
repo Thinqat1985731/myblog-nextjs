@@ -6,8 +6,8 @@ const matter = require("gray-matter");
 async function generate() {
   const feed = new RSS({
     title: "Thinqat's blog",
-    site_url: "https://thinqat-blog.vercel.app/",
-    feed_url: "https://thinqat-blog.vercel.app/feed.xml",
+    site_url: "https://thinqat.vercel.app/",
+    feed_url: "https://thinqat.vercel.app/feed.xml",
   });
 
   const posts = await fs.readdir(path.join(__dirname, "..", "pages", "posts"));
@@ -23,7 +23,7 @@ async function generate() {
 
       feed.item({
         title: frontmatter.data.title,
-        url: "https://thinqat-blog.vercel.app/posts/" + name.replace(/\.mdx?/, ""),
+        url: "https://thinqat.vercel.app/posts/" + name.replace(/\.mdx?/, ""),
         date: frontmatter.data.date,
         description: frontmatter.data.description,
         categories: frontmatter.data.tag.split(", "),
