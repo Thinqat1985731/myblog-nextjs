@@ -23,8 +23,12 @@ date: 2023-04-10
 - Next.js
   - このブログの元締め。JekyllのためだけにRuby入れるのは癪だったので思い切って乗り換え。
   - チュートリアルをやって雰囲気を掴んでみたりはしています。
-- VSCode
-  - LatexはOverleafではなくVScode上でできる形にしています。
+- Codacy
+  - 最近使い始めたコード解析ツール。
+  - （今のところDependabotからのものしかないですが）Pull requestも大丈夫か解析してくれる模様。
+  - 多彩なlinterを駆使してVisual Stadio Code上で捉えきれなかった部分を指摘してくれることがあり、とても助かっています。
+- Visual Stadio Code
+  - LatexはOverleafではなくVisual Stadio Code上でできる形にしています。
 - Slack
 - Notion
   - 調べた言葉を書いたり、ミーティングの資料作ったり。
