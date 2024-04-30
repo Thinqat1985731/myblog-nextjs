@@ -30,7 +30,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "pages/_app.mdx", "pages/_document.tsx"  ],
+, "pages/_app.mdx", "pages/_document.js" , "scripts/gen-rss.js" ],
   "exclude": [
     "node_modules"
   ]
