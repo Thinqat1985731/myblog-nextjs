@@ -10,29 +10,29 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <meta name="robots" content="follow, index" />
-        <meta name="description" content={meta.description} />
-        <meta property="og:site_name" content={meta.title} />
-        <meta property="og:description" content={meta.description} />
-        <meta property="og:title" content={meta.title} />
-        <meta property="og:image" content={meta.image} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@yourname" />
-        <meta name="twitter:title" content={meta.title} />
-        <meta name="twitter:description" content={meta.description} />
-        <meta name="twitter:image" content={meta.image} />
+        <meta content="follow, index" name="robots" />
+        <meta content={meta.description} name="description" />
+        <meta content={meta.title} property="og:site_name" />
+        <meta content={meta.description}  property="og:description" />
+        <meta content={meta.title} property="og:title" />
+        <meta content={meta.image} property="og:image" />
+        <meta content="summary_large_image" name="twitter:card" />
+        <meta content="@yourname" name="twitter:site" />
+        <meta content={meta.title} name="twitter:title" />
+        <meta content={meta.description} name="twitter:description" />
+        <meta content={meta.image} name="twitter:image" />
         <link
+          crossOrigin="anonymous"
           href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css"
           integrity="sha256-tkzDFSl16wERzhCWg0ge2tON2+D6Qe9iEaJqM4ZGd4E="
-          crossOrigin="anonymous"
-          type="text/css"
           rel="stylesheet"
+          type="text/css"
         />
         <link
-          rel="stylesheet"
+          crossOrigin="anonymous"
           href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css"
           integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww"
-          crossOrigin="anonymous"
+          rel="stylesheet"
         />
       </Head>
       <body>

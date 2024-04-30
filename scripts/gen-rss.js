@@ -1,3 +1,4 @@
+/* eslint @typescript-eslint/no-var-requires: "off" */
 const { promises: fs } = require("fs");
 const path = require("path");
 const RSS = require("rss");
