@@ -25,7 +25,7 @@ date: 2023-04-10
   - チュートリアルをやって雰囲気を掴んでみたりはしています。
 - Codacy
   - 最近使い始めたコード解析ツール。
-  - （今のところDependabotからのものしかないですが）Pull requestも大丈夫か解析してくれる模様。
+  - Pull requestも大丈夫か解析してくれる模様（今のところDependabotからのPull requestにしか適用したことがありませんが...）
   - 多彩なlinterを駆使してVisual Stadio Code上で捉えきれなかった部分を指摘してくれることがあり、とても助かっています。
 - Visual Stadio Code
   - LatexはOverleafではなくVisual Stadio Code上でできる形にしています。
