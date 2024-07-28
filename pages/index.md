@@ -46,9 +46,12 @@ date: 2023-04-10
   - 多彩なlinterを駆使してVisual Stadio Code上で捉えきれなかった部分を指摘してくれることがあり、とても助かっています。
 - Visual Stadio Code
   - LatexはOverleafではなくVisual Stadio Code上でできる形にしています。
+- Marp
+  - 授業や勉強会、ミーティングといった使い捨てのスライドは大概これで作っています。
 - Slack
 - Notion
   - 調べた言葉を書いたり、ミーティングの資料作ったり。
+  - ただミーティングの資料はMarpによるスライド形式に移行しつつあるため、今は（調べた言葉を書くのに加えて）予定の整理と論文の記録が主。
 - MMD (MikuMikuDance)
 - Pmxeditor
   - 趣味でやっていますが、かれこれ5年以上の付き合いです。
