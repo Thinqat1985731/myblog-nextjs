@@ -8,7 +8,7 @@
   "dependencies": {
     "@icons-pack/react-simple-icons": "^10.2.0",
     "gray-matter": "^4.0.3",
-    "katex": "^0.16.18",
+    "katex": "^0.16.19",
     "next": "latest",
     "nextra": "^2.13.2",
     "nextra-theme-blog": "^2.13.2",
