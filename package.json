@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@icons-pack/react-simple-icons": "^11.1.0",
+    "@icons-pack/react-simple-icons": "^11.2.0",
     "gray-matter": "^4.0.3",
     "katex": "^0.16.21",
     "next": "latest",
