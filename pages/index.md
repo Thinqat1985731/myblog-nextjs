@@ -14,6 +14,7 @@ date: 2023-04-10
 - [Bio](#bio)
 - [Certification](#certification)
 - [Main Tools](#main-tools)
+- [Previous Tools](#previous-tools)
 - [Recommended Freeware](#recommended-freeware)
 - [Contact](#contact)
 
@@ -44,11 +45,12 @@ date: 2023-04-10
   - 最近使い始めたコード解析ツール。
   - Pull requestも大丈夫か解析してくれる模様（今のところDependabotからのPull requestにしか適用したことがありませんが...）
   - 多彩なlinterを駆使してVisual Stadio Code上で捉えきれなかった部分を指摘してくれることがあり、とても助かっています。
+- Phind
+  - 論文書くときに色々聞きまくったことでドはまりしてしまい、もはやマブダチ。
+  - コードから質問までいろいろお世話になっています。
+  - ChatGPTは未だにOpenAIのアカウントすら作っていません。
 - Visual Stadio Code
   - LatexはOverleafではなくVisual Stadio Code上でできる形にしています。
-- Marp
-  - 授業や勉強会、ミーティングといった使い捨てのスライドは大概これで作っていました。
-  - だんだんめんどくさくなってしまい、今はいざというときに使えるような技術とテーマだけが残っています。
 - Slack
 - Notion
   - 調べた言葉を書いたり、ミーティングの資料作ったり。
@@ -57,6 +59,15 @@ date: 2023-04-10
 - Pmxeditor
   - 趣味でやっていますが、かれこれ5年以上の付き合いです。
   - アイコンのキャラはMMDのアバターに由来しています。
+
+<p align="right">(<a href="#page-top">back to top</a>)</p>
+
+## Previous Tools
+
+- Marp
+  - 授業や勉強会、ミーティングといった使い捨てのスライドは大概これで作っていました。
+  - だんだんめんどくさくなってしまい、今はいざというときに使えるような技術とテーマだけが残っています。
+    - この時の表や注釈のデザインが気に入ったので、パワポに出戻りしたときに逆輸入していたり。
 
 <p align="right">(<a href="#page-top">back to top</a>)</p>
 
