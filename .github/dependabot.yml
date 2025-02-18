@@ -8,7 +8,9 @@ updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/" # Location of package manifests
     ignore:
-      - nextra
-      - nextra-theme-blog
+      - dependency-name: "nextra"
+        versions: ["*"]
+      - dependency-name: "nextra-theme-blog"
+        versions: ["*"]
     schedule:
       interval: "weekly"
